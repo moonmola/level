@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">bubble-level</string>
+    <string name="xTitle">X = </string>
+    <string name="yTitle">Y = </string>
+</resources>

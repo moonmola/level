@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#8DAF66</color>
+    <color name="colorDefault">#D5D5D5</color>
+
+    <color name="circleFill">#BEBFC0</color>
+    <color name="stroke">#242425</color>
+    <color name="skyblue">#1AD7FF</color>
+    <color name="red">#F01939</color>
+
+</resources>
